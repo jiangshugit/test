@@ -25,5 +25,9 @@
 -(void)dismissview{
 
     [self.presentedViewController dismissViewControllerAnimated:NO completion:nil];
+    
+    
+    
+    
 }
 @end
